@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Platformer",
+"productVersion": "0.1",
+"dataUrl": "d58fa3390ff29c269e35eca5442798e5.unityweb",
+"wasmCodeUrl": "b2bea24fcfe1c870493ec7b2dad9f0ee.unityweb",
+"wasmFrameworkUrl": "5ed723259bc4e6da1eb198da10595c58.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
